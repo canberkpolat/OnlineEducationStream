@@ -1,0 +1,2 @@
+* * * * * /bin/bash /mnt/cleanup.sh > /dev/null 2>&1
+* * * * * /bin/bash /mnt/generate_thumbnail.sh > /dev/null 2>&1
